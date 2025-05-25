@@ -2,7 +2,7 @@
 - 👀 I’m interested in building softwares and exploring AI/ML
 - 🌱 I’m currently learning DSA and MERN Stack...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me LinkedIn - (https://www.linkedin.com/in/aadittya-gupta-8a3069253/)
+- 📫 How to reach me LinkedIn - https://www.linkedin.com/in/aadittya-gupta-8a3069253/
 
 
 <!---
